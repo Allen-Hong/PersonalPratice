@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hWhX9xOUbEQndm05TA7adU8SZ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -129,6 +133,7 @@
       <workItem from="1600943529488" duration="3936000" />
       <workItem from="1600982784430" duration="7920000" />
       <workItem from="1601796992570" duration="10463000" />
+      <workItem from="1601892080835" duration="646000" />
     </task>
     <servers />
   </component>
@@ -196,6 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600983633597" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601892120952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601892120952" />
     <state x="658" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601804445413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
