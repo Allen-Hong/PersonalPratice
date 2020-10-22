@@ -3,8 +3,58 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="488a1437-4ad4-47c0-a96b-946b9022fbb8" name="Default Changelist" comment="" />
+    <list default="true" id="488a1437-4ad4-47c0-a96b-946b9022fbb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A/src/main/java/com/allen/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/WorkHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phaser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phaser/src/main/java/PhaserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phaser/target/classes/PhaserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-common/src/main/java/com/allen/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-consumer/src/main/java/SPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-provider/src/main/java/org/hong/WeChatPayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPI-provider/src/main/resources/META-INF/services/com.allen.PayService" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/target/classes/com/allen/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/A/target/classes/com/allen/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A/target/classes/com/allen/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/A/target/classes/com/allen/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,23 +82,27 @@
     </option>
   </component>
   <component name="ProjectId" id="1hWhX9xOUbEQndm05TA7adU8SZ5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/A/target/A-1.0.0-SNAPSHOT.jar" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SPI-consumer" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3091954" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -57,27 +113,13 @@
       <recent name="H:\Program\JetBrains\IDEAProject\PersonalPratice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Method2">
-    <configuration name="IPFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IPFormat" />
-      <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method1" />
-      <module name="ClassLoaderTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="em.Method2" />
-      <module name="ClassLoaderTest" />
+  <component name="RunManager" selected="Application.ExcelReader">
+    <configuration name="ExcelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allen.ExcelReader" />
+      <module name="A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="em.*" />
+          <option name="PATTERN" value="com.allen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,34 +127,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubStringTest" />
-      <module name="DFS" />
+    <configuration name="PhaserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhaserTest" />
+      <module name="Phaser" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reader" />
+      <module name="XlsxReader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPITest" />
+      <module name="SPI-consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="ClassLoaderTest" />
+      <module name="DynamicProxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IPFormat" />
-      <item itemvalue="Application.SubStringTest" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Method1" />
-      <item itemvalue="Application.Method2" />
+      <item itemvalue="Application.PhaserTest" />
+      <item itemvalue="Application.SPITest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Reader" />
+      <item itemvalue="Application.ExcelReader" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.IPFormat" />
-        <item itemvalue="Application.SubStringTest" />
+        <item itemvalue="Application.ExcelReader" />
+        <item itemvalue="Application.Reader" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SPITest" />
+        <item itemvalue="Application.PhaserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -133,74 +200,95 @@
       <workItem from="1600943529488" duration="3936000" />
       <workItem from="1600982784430" duration="7920000" />
       <workItem from="1601796992570" duration="10463000" />
-      <workItem from="1601892080835" duration="646000" />
+      <workItem from="1601892080835" duration="918000" />
+      <workItem from="1601948842069" duration="3940000" />
+      <workItem from="1602242505664" duration="2467000" />
+      <workItem from="1602294679553" duration="748000" />
+      <workItem from="1602489793470" duration="704000" />
+      <workItem from="1602496268646" duration="6027000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1601807573432">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1602489828808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601807573432" />
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600739230123">
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602489828808" />
+    <state x="726" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602501764179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600739230123" />
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1601802449842">
+    <state x="726" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602501764179" />
+    <state x="664" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602242828713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601802449842" />
-    <state x="740" y="226" key="FileChooserDialogImpl" timestamp="1601804544658">
+    <state x="664" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602242828713" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1602295037314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="226" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601804544658" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1601831973679">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602295037314" />
+    <state x="1189" y="193" key="FileChooserDialogImpl" timestamp="1602243779671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1601831973679">
+    <state x="1189" y="193" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602243779671" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1602502826444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826444" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1602502826444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826444" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1602502826444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826444" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1602502826444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826444" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602502826445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826445" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1602502826445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601831973679">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826445" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1602502826445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601831973679" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826445" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1602502826445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602502826445" />
     <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1600845519570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600845519570" />
-    <state x="600" y="226" key="NewModule_or_Project.wizard" timestamp="1601803222889">
+    <state x="600" y="226" key="NewModule_or_Project.wizard" timestamp="1602243782980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="226" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601803222889" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1600983633597">
+    <state x="600" y="226" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602243782980" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602243563621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600983633597" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602243563621" />
     <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1601892120952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -209,10 +297,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1601804445413" />
-    <state x="334" y="180" key="new project wizard" timestamp="1601803079192">
+    <state x="334" y="180" key="new project wizard" timestamp="1602489820395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601803079192" />
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602489820395" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1602242650005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602242650005" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,6 +313,16 @@
           <url>file://$PROJECT_DIR$/DFS/src/main/java/FullArrangement.java</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SPI-consumer/src/main/java/SPITest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A/src/main/java/com/allen/ExcelReader.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

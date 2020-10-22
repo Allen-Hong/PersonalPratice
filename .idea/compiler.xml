@@ -8,13 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DFS" />
         <module name="A" />
-        <module name="ClassLoaderTest" />
         <module name="B" />
+        <module name="ClassLoaderTest" />
+        <module name="SPI-common" />
         <module name="ThreadLocal" />
         <module name="Memory" />
+        <module name="SPI-consumer" />
         <module name="ParentalDelegation" />
+        <module name="Phaser" />
+        <module name="DynamicProxy" />
+        <module name="SPI-provider" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="XlsxReader" target="6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
